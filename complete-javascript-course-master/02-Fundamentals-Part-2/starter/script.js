@@ -1,4 +1,4 @@
-/*
+
 
 // >------FUNDAMENTALS OF JAVASCRIPT 2-------<
 
@@ -9,7 +9,7 @@ const passTest = true;
 if(passTest) hasDriversLicense = true;
 if(hasDriversLicense) console.log('I am eligible to drive!');
 
->-------------------------!-----------------------------<
+// >-------------------------!-----------------------------<
 
 // Functions
 
@@ -96,7 +96,7 @@ console.log(birthYear);
 friends[2] = 'Chandra';
 console.log(friends);
 
->------------!--------------------<
+// >------------!--------------------<
 
 
 
@@ -282,6 +282,6 @@ while(dice !==6) {
     dice = Math.random() * 6 + 1;
 }
 
-*/
+
 
 
